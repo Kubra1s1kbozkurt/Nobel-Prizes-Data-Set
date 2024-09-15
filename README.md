@@ -1,4 +1,4 @@
-![Kod Ekranı]([https://github.com/kullanici-adi/repository-adi/raw/main/fotograf.jpg](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/PP.jpg))
+![Kod Ekranı](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/PP.jpg))
 
 
 **Python Blok Projesi**<p><img style="float: right;margin:5px 20px 5px 1px; max-width:250px" src="https://assets.datacamp.com/production/project_441/img/Nobel_Prize.png"></p>
