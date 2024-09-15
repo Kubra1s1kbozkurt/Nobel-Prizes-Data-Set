@@ -2604,7 +2604,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_31_0.png)
     
 
 
@@ -2630,37 +2630,37 @@ for category in categories:
 
 
     
-![png](output_32_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_0.png)
     
 
 
 
     
-![png](output_32_1.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_1.png)
     
 
 
 
     
-![png](output_32_2.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_2.png)
     
 
 
 
     
-![png](output_32_3.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_3.png)
     
 
 
 
     
-![png](output_32_4.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_4.png)
     
 
 
 
     
-![png](output_32_5.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_32_5.png)
     
 
 
@@ -3136,37 +3136,37 @@ for category in df['category'].unique():
 
 
     
-![png](output_49_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_0.png)
     
 
 
 
     
-![png](output_49_1.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_1.png)
     
 
 
 
     
-![png](output_49_2.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_2.png)
     
 
 
 
     
-![png](output_49_3.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_3.png)
     
 
 
 
     
-![png](output_49_4.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_4.png)
     
 
 
 
     
-![png](output_49_5.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_49_5.png)
     
 
 
@@ -3196,7 +3196,7 @@ plt.show()
 
 
     
-![png](output_51_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_51_0.png)
     
 
 
@@ -3231,7 +3231,7 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_53_0.png)
     
 
 
@@ -3262,37 +3262,37 @@ for category in categories:
 
 
     
-![png](output_54_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_0.png)
     
 
 
 
     
-![png](output_54_1.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_1.png)
     
 
 
 
     
-![png](output_54_2.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_2.png)
     
 
 
 
     
-![png](output_54_3.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_3.png)
     
 
 
 
     
-![png](output_54_4.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_4.png)
     
 
 
 
     
-![png](output_54_5.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_54_5.png)
     
 
 
@@ -3322,52 +3322,32 @@ for category in categories:
 
 
     
-![png](output_56_0.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_56_0.png)
     
 
 
 
     
-![png](output_56_1.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_56_1.png)
     
 
 
 
     
-![png](output_56_2.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_56_2.png)
     
 
 
 
     
-![png](output_56_3.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_56_3.png)
     
 
 
 
     
-![png](output_56_4.png)
+![](https://github.com/Kubra1s1kbozkurt/Nobel-Prizes-Data-Set/blob/main/imagess/output_56_4.png)
     
 
 
 #                                               TEŞEKKÜRLER
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
